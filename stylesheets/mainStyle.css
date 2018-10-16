@@ -1,0 +1,8 @@
+.container{
+ width: 90%;
+ margin-top:80px;
+}
+#statusDisplayArea {
+ font-size: 3em;
+ margin:auto;
+}
